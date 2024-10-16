@@ -1,0 +1,702 @@
+[
+    {
+        "answer": "A coffee shop in the city centre area called Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, Blue Spice, coffee shop, city centre.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\5d597b84-ea58-4e7d-9059-66ed5fe895c9.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a coffee shop in city centre.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, Blue Spice, coffee shop, city centre.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\31907dfb-1fba-402c-92de-077fc8df6b96.png"
+        }
+    },
+    {
+        "answer": "There is a coffee shop Blue Spice in the riverside area.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, Blue Spice, coffee shop, riverside.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\6723bbee-45ea-4064-8c86-997c8db23b4d.png"
+        }
+    },
+    {
+        "answer": "At the riverside, there is a coffee shop called The Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, Blue Spice, coffee shop, riverside.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\48de323f-2ddf-4254-bc57-5c7e6e7e4886.png"
+        }
+    },
+    {
+        "answer": "The coffee shop Blue Spice is based near Crowne Plaza Hotel and has a high customer rating of 5 out of 5.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, 5 out of 5, Crowne Plaza Hotel.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\fd29426a-fc5a-4715-9a53-d8bacdc8de5f.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice coffee shop, near Crowne Plaza Hotel, has a customer rating of 5 out of 5.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, 5 out of 5, Crowne Plaza Hotel.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\f5e15644-09f3-4de2-a25d-397cc6414f54.png"
+        }
+    },
+    {
+        "answer": "If you want a coffee shop rated 5 out of 5 pick Blue Spice. It is located near Crowne Plaza Hotel.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, 5 out of 5, Crowne Plaza Hotel.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\ba94ccf4-4b51-457c-aa98-0f7c0cec70de.png"
+        }
+    },
+    {
+        "answer": "Burger King is near the coffee shop Blue Spice which has an average customer rating.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\676da5a4-3240-4558-992d-ffb375de21e7.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice coffee shop near Burger King has good customer ratings with excellent food and service, with a lovely atmosphere.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\a89a089b-5a9f-434b-9764-db8d52648ead.png"
+        }
+    },
+    {
+        "answer": "Average customer rating coffee shop include Blue Spice near Burger King.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\ddba42e9-4096-4c13-a999-3413f07618a1.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice coffee shop located near Burger King has been rated average by customers.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\3c0abe8f-c1aa-4388-9959-8036fe4a5204.png"
+        }
+    },
+    {
+        "answer": "Located near Burger King is a coffee shop named Blue Spice that has an average customer rating.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\10e3c8f9-e118-4656-813a-1cb3e4115c4b.png"
+        }
+    },
+    {
+        "answer": "Near Burger King is a coffee shop called Blue Spice which has an average customer rating.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\4a3a8819-c5d2-48ca-9fd9-d738d3e1d067.png"
+        }
+    },
+    {
+        "answer": "Near Burger King is the Blue Spice coffee shop.  It has average customer ratings.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\d91d3aea-b114-4b21-ada2-b8264414e482.png"
+        }
+    },
+    {
+        "answer": "Crowne Plaza Hotel has a coffee shop nearby with an average customer rating called Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, coffee shop, average, Crowne Plaza Hotel.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\70da947f-96cf-4543-b975-1a3a436a2d56.png"
+        }
+    },
+    {
+        "answer": "A pub in the city centre area called Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, Blue Spice, pub, city centre.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\e1a98752-70d1-4536-84c0-2064a26bf9d0.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub in city centre.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, Blue Spice, pub, city centre.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\1c3ca799-9053-44b4-9ec0-ac7608c14b61.png"
+        }
+    },
+    {
+        "answer": "There is a pub Blue Spice in the riverside area.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, Blue Spice, pub, riverside.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\04fb8366-580b-43fa-a1d0-d064ed07acf1.png"
+        }
+    },
+    {
+        "answer": "At the riverside, there is a pub called The Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, Blue Spice, pub, riverside.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\669ce056-c2d7-4edc-b21e-1c099a6db5a2.png"
+        }
+    },
+    {
+        "answer": "The pub Blue Spice is based near Crowne Plaza Hotel and has a high customer rating of 5 out of 5.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, 5 out of 5, Crowne Plaza Hotel.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\848566f5-c8d5-4aaa-bbfe-8e02d6a4ea62.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice pub, near Crowne Plaza Hotel, has a customer rating of 5 out of 5.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, 5 out of 5, Crowne Plaza Hotel.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\d890ba5a-4ad9-4a57-9a51-3bb762905b3e.png"
+        }
+    },
+    {
+        "answer": "If you want a pub rated 5 out of 5 pick Blue Spice. It is located near Crowne Plaza Hotel.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, 5 out of 5, Crowne Plaza Hotel.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\67956aba-a910-4591-9cbe-7dc0b1dca7d2.png"
+        }
+    },
+    {
+        "answer": "Burger King is near the pub Blue Spice which has an average customer rating.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\fa914ebd-a482-45cd-90dc-81dbbf16ffad.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice pub near Burger King has good customer ratings with excellent food and service, with a lovely atmosphere.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\afa7342b-3d10-4b76-8dd3-f73755abce04.png"
+        }
+    },
+    {
+        "answer": "Average customer rating pub include Blue Spice near Burger King.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\55b6974d-3aa8-47ad-9b1d-e6d4451a487a.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice pub located near Burger King has been rated average by customers.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\071e8dc6-c73d-4bbd-b78e-12fd01f3f03c.png"
+        }
+    },
+    {
+        "answer": "Located near Burger King is a pub named Blue Spice that has an average customer rating.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\298eb59d-fa8a-4403-a03d-e4f19040160a.png"
+        }
+    },
+    {
+        "answer": "Near Burger King is a pub called Blue Spice which has an average customer rating.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\5f3379dd-6105-4c94-9dbd-5ea5d00bdbc1.png"
+        }
+    },
+    {
+        "answer": "Near Burger King is the Blue Spice pub.  It has average customer ratings.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, average, Burger King.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\522e6dd2-9fd8-4ce9-85af-b303b276ce82.png"
+        }
+    },
+    {
+        "answer": "Crowne Plaza Hotel has a pub nearby with an average customer rating called Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, customer rating, near, Blue Spice, pub, average, Crowne Plaza Hotel.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\f2918d07-83e6-4bbf-b3d0-713139bcf890.png"
+        }
+    },
+    {
+        "answer": "Blue Spice, located near Rainbow Vegetarian Caf\u00e9 in the city centre, is a pub that also sells Chinese food.  Children should not visit.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, near, Blue Spice, pub, Chinese, city centre, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\52a7e5d4-3c1a-4234-8ef7-df79b9993e30.png"
+        }
+    },
+    {
+        "answer": "A pub named Blue Spice is located in the city centre. It is for adults and is close to Rainbow Vegetarian Caf\u00e9. They offer Chinese food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, near, Blue Spice, pub, Chinese, city centre, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\7a7b981c-3268-485d-a38a-fd8198dd34ea.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice is a pub that also serves Chinese food, it's located in the city center. The pub isn't very family friendly, but the proximity to the Rainbow Vegetarian Caf\u00e9 makes up for it.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, city centre, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\10989a1d-8350-4e8b-974e-93e1cd06b2db.png"
+        }
+    },
+    {
+        "answer": "Near Rainbow Vegetarian Caf\u00e9 Blue Spice pub Chinese in city centre family friendly no.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\41068b1d-9a19-49df-a638-f74f20fdfdf3.png"
+        }
+    },
+    {
+        "answer": "There is a pub Blue Spice located in the centre of the city that provides Chinese food. It is not family friendly and is located near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, city centre, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\d7b6a93c-7b46-40e7-b604-1b4c5a9eb500.png"
+        }
+    },
+    {
+        "answer": "located in the city center. right next to the Rainbow Vegetarian Caf\u00e9, the pub, Blue Spice, has wonderful Chinese food. The Blue Spice is perfect for date night, but i wouldn't recommend bringing your family there.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, near, Blue Spice, pub, Chinese, city centre, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\5bbe9d6c-940a-433a-b0b3-1db0ef8d48b3.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub located in the city centre. It has Chinese food and is not family friendly and is located near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, city centre, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\35cf837c-860e-4644-a770-9f2483ba8365.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub providing Chinese food It is located in the city centre. It is near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, near, Blue Spice, pub, Chinese, city centre, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\f1a8519e-196c-4c03-96df-8e2cb75b334b.png"
+        }
+    },
+    {
+        "answer": "In the city centre near the Rainbow Vegetarian Caf\u00e9 there is a family friendly pub called Blue Spice. They serve Chinese food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\1325b5e7-107e-4fcf-a7d9-af99411c39ff.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub providing Chinese food It is located in the city centre. It is near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, near, Blue Spice, pub, Chinese, city centre, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\ea7a6d92-534c-496b-93ee-3e7e74124dad.png"
+        }
+    },
+    {
+        "answer": "For Chinese, head to Blue Spice. It's a family friendly pub located in the City Centre near the Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\23ef3ea7-5cb1-4a17-be39-f2ebe8170b67.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a fusion pub and Chinese. It's located in the City Centre near the Rainbow Vegetarian Caf\u00e9. Families are welcome.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\9886accc-d754-4dc6-b9bf-323211e3dd46.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a family friendly pub located in the city centre. It serves Chinese food and is near the Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\2f63cff9-9e8f-4b3e-b621-3e9e5b275db8.png"
+        }
+    },
+    {
+        "answer": "There is a non-family friendly pub along the riverside and near Rainbow Vegetarian Caf\u00e9. Its name is Blue Spice and serves Chinese food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\9433e8c1-89b9-4846-bf12-e6a8fd7bea95.png"
+        }
+    },
+    {
+        "answer": "Blue Spice, a pub located riverside near the Rainbow Vegetarian Caf\u00e9, serves Chines food. It is not family friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\ede8b3c7-eb7d-4f8b-830a-912ced849a82.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice is a great pub along the riverside, and is located near Rainbow Vegetarian Caf\u00e9. It is not family friendly, but serves Chinese food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\7726a70a-8a7c-4e51-bccb-b9087342bcee.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub that serves Chinese food near the riverside and the Rainbow Vegetarian Caf\u00e9. It is not family friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\f745dd7c-9bb8-4523-ae59-42c4fc24d070.png"
+        }
+    },
+    {
+        "answer": "Blue Spice pub in riverside serves Chinese food. It is not family friendly and can be found near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\213f46dc-fe88-4bff-9b9c-ceb738595172.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub providing Chinese food It is located in the riverside. It is near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, near, Blue Spice, pub, Chinese, riverside, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\a9e1ff2f-3913-46bf-9ba5-234ed6e00025.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a family friendly Chinese pub in Riverside near the Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\1ca13500-6f82-42f7-986d-3ece63a285eb.png"
+        }
+    },
+    {
+        "answer": "Blue Spice, a kid-friendly pub near the Rainbow Vegetarian Caf\u00e9 in the riverside area, is a place where one can order Chinese food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\5a1afa4b-3b4f-4c7a-91e8-f0f84c9b1dfd.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a family friendly pub serving Chinese in riverside near the Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\a8776f99-3735-41ed-b236-0e691264f9db.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub providing Chinese food It is located in the riverside. It is near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, near, Blue Spice, pub, Chinese, riverside, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\99c1976f-157a-4f69-a2e2-392ff52da071.png"
+        }
+    },
+    {
+        "answer": "Kid friendly, .Blue Spice Chinese pub is in riverside, near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\b34aea10-6070-47b1-9b9c-7dd1b9f7d822.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a Chinese pub located in the riverside. It is family friendly is is near the Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\b07acd21-eab2-4d10-8b3e-a2385c0c2473.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a kid friendly pub that serves Chinese food in riverside near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\d2f09bdc-b8ec-4091-ba36-c0bdfaaf6f83.png"
+        }
+    },
+    {
+        "answer": "Located in riverside near the Rainbow Vegetarian Caf\u00e9 is Blue Spice pub, serving Chinese food in a family friendly environment.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\50242789-ddcb-40f3-9548-fef520178b25.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a Chinese pub and pub  in Riverside, besides being children Friendly. It is around the Rainbow Vegetarian Caf\u00e9",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\77e93405-df1e-4d8d-9cf4-c37a86198110.png"
+        }
+    },
+    {
+        "answer": "When in the riverside area, try the family friendly pub Blue Spice. Offering Chinese food, located near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\9a8f787e-4dc3-4dfb-8473-22b6e78095a9.png"
+        }
+    },
+    {
+        "answer": "Near the Rainbow Vegetarian Caf\u00e9 in Riverside is a pub called Blue Spice. It is child friendly and serves Chinese food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\9923d845-742b-4f85-8dd7-cffd19dfe438.png"
+        }
+    },
+    {
+        "answer": "In the riverside near the Rainbow Vegetarian Caf\u00e9 is a family friendly Chinese pub named the Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\1f19de9d-e8a6-40ff-8778-529b5a9be9a4.png"
+        }
+    },
+    {
+        "answer": "The pub Blue Spice not only has Chinese food but is also considered to have a kid friendly environment whether this is because of its location in the area known as riverside or its proximity near Rainbow Vegetarian Caf\u00e9 its amazing.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\8de1da54-99de-4be0-a2bb-a573f6a0fcfa.png"
+        }
+    },
+    {
+        "answer": "Blue Spice Chinese pub in riverside, near Rainbow Vegetarian Caf\u00e9, is kid friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\5fcff501-3ec7-4241-80a2-797873cbd2b1.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub that is child friendly and serves Chinese food. It is located in riverside near the Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\39c238c2-2aae-4a6f-941b-4b926a7edae9.png"
+        }
+    },
+    {
+        "answer": "A kid friendly pub called Blue Spice is in riverside is near Rainbow Vegetarian Caf\u00e9 serves Chinese food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\c8779f25-6b76-400e-8179-d2b4d29427fc.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub and Chinese pub located in Riverside near to Rainbow Vegetarian Caf\u00e9",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, near, Blue Spice, pub, Chinese, riverside, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\75806717-61a5-4b94-b6c2-2db7445cde9b.png"
+        }
+    },
+    {
+        "answer": "Blue Spice pub offers Chinese food.  It is located near Rainbow Vegetarian Caf\u00e9 near the riverside and it children friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\cde5ee7e-c4ff-4d3e-8672-05cd911b467b.png"
+        }
+    },
+    {
+        "answer": "Near Rainbow Vegetarian Caf\u00e9 near the riverside is a children friendly pub called the Blue Spice.  It has Chinese food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\ee751b61-aae4-4374-9dd6-bf4c6d796b20.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a family-oriented pub near the Rainbow Vegetarian Caf\u00e9 in the riverside area. Chinese food is served at Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, Chinese, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\d367497a-e80c-4e8b-9e75-ed31a775f1f8.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub that serves English food.  It is located near Rainbow Vegetarian Caf\u00e9 is the city centre area.  It is also a pub.  It is not family-friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\2f15d948-ce6c-463b-8247-d387d5ee56cc.png"
+        }
+    },
+    {
+        "answer": "The pub Blue Spice is not conducive for families.  They serve English food and located in the city centre  near the Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\31777426-bcb7-4bc9-b776-e5e3f0a83efe.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub that serves English food.  It is located near Rainbow Vegetarian Caf\u00e9 is the city centre area.  It is also a pub.  It is not family-friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\9e169f2e-181c-4636-a2ba-b1d81f021731.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub located near Rainbow Vegetarian Caf\u00e9 located in city centre. It sells English food and is not a family-friendly shop.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\350568f3-a9ad-4574-90d5-b62501eb2565.png"
+        }
+    },
+    {
+        "answer": "Near the Rainbow Vegetarian Caf\u00e9 in the city centre is the family-unfriendly pub Blue Spice.  They serve English food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\3c2e16ab-0407-4fd8-b092-1b46d8915c62.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice sells English food and is not a family-friendly pub located in city centre near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\77f9e386-bb49-492e-bc84-214950c1c563.png"
+        }
+    },
+    {
+        "answer": "Near the Rainbow Vegetarian Caf\u00e9 in the city centre, you will find the family-friendly pub Blue Spice, serving an English food menu.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\07fac849-49db-4da5-af37-2be2925e0b5e.png"
+        }
+    },
+    {
+        "answer": "There is a pub called Blue Spice near the Rainbow Vegetarian Caf\u00e9 in the city centre. It serves English cuisine and is family-friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\ee19ecdd-7a61-4ee8-8ad1-5b01b37e533c.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a family-friendly pub that serves English cuisine. It is located in the city centre near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\0a91c546-07fe-4074-aa8d-4ce4ca656ce0.png"
+        }
+    },
+    {
+        "answer": "A family-friendly English pub near Rainbow Vegetarian Caf\u00e9 in the city centre is The Blue Spice.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\7e885a78-804d-4823-bc67-62fbe4bd5467.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice is a family-friendly English pub near Rainbow Vegetarian Caf\u00e9 in the city centre.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\512c0592-bbd4-4c68-be16-05d1265f3d49.png"
+        }
+    },
+    {
+        "answer": "Blue Spice pub, located in the city centre near the Rainbow Vegetarian Caf\u00e9, offers a family-friendly environment and serves English dishes.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, city centre, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\b5abe073-7124-4348-a0d3-289de964dbe5.png"
+        }
+    },
+    {
+        "answer": "An English pub called Blue Spice is situated near Rainbow Vegetarian Caf\u00e9 at Riverside. However, not suitable for families.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\a935e856-9959-42a3-90de-dd0c87fcabb4.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice is a pub located by the riverside, near the Rainbow Vegetarian Caf\u00e9. It is not child friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, familyFriendly, near, Blue Spice, pub, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\d215131c-1709-41f5-bae1-c1eb148a6ec3.png"
+        }
+    },
+    {
+        "answer": "Near the Rainbow Vegetarian Caf\u00e9, by the riverside is a pub called The Blue Spice. It is not suitable for families.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, familyFriendly, near, Blue Spice, pub, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\dcb7b38b-8d0a-4a0d-ba93-f4c5d7d3ebb5.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub located near the Rainbow Vegetarian Caf\u00e9. It is not family friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, familyFriendly, near, Blue Spice, pub, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\fff5a3ec-0bed-458f-9aec-2dc9f28c4736.png"
+        }
+    },
+    {
+        "answer": "Next to the river not far from Rainbow Vegetarian Caf\u00e9 is a no children pub Blue Spice which provides English breakfast.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, familyFriendly, near, Blue Spice, pub, English, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\aed5eee3-0d8f-4235-b4bd-42a5a427d477.png"
+        }
+    },
+    {
+        "answer": "Near the river is a pub called The Blue Spice.  It is located near the Rainbow Vegetarian Caf\u00e9 and is not family-friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, familyFriendly, near, Blue Spice, pub, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\ff2176ca-1cfa-4646-b583-1d2b9043c9cf.png"
+        }
+    },
+    {
+        "answer": "There is a riverside pub near the Rainbow Vegetarian Caf\u00e9 called Blue Spice.  It serves English food but is not family-friendly.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\614049d7-4c6f-47e9-a1a3-ec99f0a8cae9.png"
+        }
+    },
+    {
+        "answer": "A pub called Blue Spice is situated near Rainbow Vegetarian Caf\u00e9 at Riverside. Not family-friendly but serves English food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\88713a09-76b4-4006-b11c-7892a76c0941.png"
+        }
+    },
+    {
+        "answer": "Blue Spice has a no children policy, it is a pub sat next to the river that provides English breakfast not far from Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, familyFriendly, near, Blue Spice, pub, English, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\4207277c-5a84-47ee-bd6a-e4f8e66e6d4a.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a pub serving English food.  You'll find it alongside the river near to the Rainbow Vegetarian Caf\u00e9.  It isn't a family-friendly establishment.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, familyFriendly, near, Blue Spice, pub, English, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\1c7c53ee-7e38-419d-9505-f0c8ddb2d61d.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice is not a family-friendly pub located near the Rainbow Vegetarian Caf\u00e9 just off the river.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, area, familyFriendly, near, Blue Spice, pub, riverside, no, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\2eab16b5-2ec3-47ac-8654-18c0c37c2bb7.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice is a pub that serves English cuisine.  It is a kid friendly pub located on the riverside near the Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\1d171414-4dbb-44d5-b1a4-ee1cd4a19ab4.png"
+        }
+    },
+    {
+        "answer": "Near the Rainbow Vegetarian Caf\u00e9, area riverside, the Blue Spice pub, serves English food and has a family friendly atmosphere",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\50b551a6-3bfa-45c7-a1d7-7979bf94055c.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a family-friendly pub providing English food. It is located near the Rainbow Vegetarian Caf\u00e9 in Riverside.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\cfa3c943-5f78-496c-9625-c0b970f85e87.png"
+        }
+    },
+    {
+        "answer": "In the riverside area you can find a family friendly pub named Blue Spice.  The serve English food and are located near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\27988e6f-6123-4aea-b6d7-714efdcc43e0.png"
+        }
+    },
+    {
+        "answer": "In the riverside area near Rainbow Vegetarian Caf\u00e9 you can enjoy English food at the pub Blue Spice in a child friendly atmosphere.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\442df69e-e158-49a6-81cf-9941951a2b05.png"
+        }
+    },
+    {
+        "answer": "The Blue Spice is a child-friendly, English pub located in riverside area, near Rainbow Vegetarian Caf\u00e9.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\ab8efdc7-b1c2-473d-b556-2b17a3021ab8.png"
+        }
+    },
+    {
+        "answer": "Blue Spice is a kid friendly English pub near Rainbow Vegetarian Caf\u00e9 in Riverside.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\4b525f8a-b497-4f80-98d0-320392aacab1.png"
+        }
+    },
+    {
+        "answer": "There is a children friendly pub Blue Spice located on the riverside near Rainbow Vegetarian Caf\u00e9 that provides English food.",
+        "combined_vanilla_prompt": {
+            "prompt": "Please read the following table, then write a sentence to describe the table. name, eatType, food, area, familyFriendly, near, Blue Spice, pub, English, riverside, yes, Rainbow Vegetarian Caf\u00e9.\n The figure of the table is shown below. ",
+            "figure_path": "./complete_data/e2e_dataset_test\\1042c055-f24e-4928-a905-d79c57160711.png"
+        }
+    }
+]

@@ -1,0 +1,122 @@
+{
+    "_e2e_dataset_test": {
+        "gpt-4": {
+            "completion_tokens": 392.97,
+            "prompt_tokens": 889.34,
+            "cost_per_data_point": 0.0502584
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 532.61,
+            "prompt_tokens": 889.34,
+            "cost_per_data_point": 0.00239923
+        }
+    },
+    "_fetaQA-v1_test": {
+        "gpt-4": {
+            "completion_tokens": 860.77,
+            "prompt_tokens": 10182.05,
+            "cost_per_data_point": 0.3571076999999999
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 1512.95,
+            "prompt_tokens": 10182.05,
+            "cost_per_data_point": 0.018298975
+        }
+    },
+    "_FinQA_test": {
+        "gpt-4": {
+            "completion_tokens": 1139.11,
+            "prompt_tokens": 20477.44,
+            "cost_per_data_point": 0.6826698
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 2962.92,
+            "prompt_tokens": 20477.44,
+            "cost_per_data_point": 0.036642
+        }
+    },
+    "_HybridQA_dev_only_table": {
+        "gpt-4": {
+            "completion_tokens": 454.12,
+            "prompt_tokens": 10600.77,
+            "cost_per_data_point": 0.34527030000000003
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 984.43,
+            "prompt_tokens": 10600.77,
+            "cost_per_data_point": 0.017870015
+        }
+    },
+    "_LogicNLG_test": {
+        "gpt-4": {
+            "completion_tokens": 454.48,
+            "prompt_tokens": 15681.44,
+            "cost_per_data_point": 0.497712
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 2095.63,
+            "prompt_tokens": 15681.44,
+            "cost_per_data_point": 0.027713420000000002
+        }
+    },
+    "_Table-Fact-Checking_test-v2": {
+        "gpt-4": {
+            "completion_tokens": 610.21,
+            "prompt_tokens": 14501.64,
+            "cost_per_data_point": 0.47166179999999996
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 590.27,
+            "prompt_tokens": 14501.64,
+            "cost_per_data_point": 0.022933
+        }
+    },
+    "_Table-Fact-Checking_test": {
+        "gpt-4": {
+            "completion_tokens": 441.0,
+            "prompt_tokens": 13104.45,
+            "cost_per_data_point": 0.4195935
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 1807.65,
+            "prompt_tokens": 13104.45,
+            "cost_per_data_point": 0.023271975
+        }
+    },
+    "_tatqa_dataset_dev": {
+        "gpt-4": {
+            "completion_tokens": 544.4,
+            "prompt_tokens": 8205.4,
+            "cost_per_data_point": 0.27882599999999996
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 1540.07,
+            "prompt_tokens": 8205.4,
+            "cost_per_data_point": 0.01538824
+        }
+    },
+    "_Totto_dev": {
+        "gpt-4": {
+            "completion_tokens": 663.7619047619048,
+            "prompt_tokens": 9383.17857142857,
+            "cost_per_data_point": 0.3213210714285714
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 627.8452380952381,
+            "prompt_tokens": 9383.17857142857,
+            "cost_per_data_point": 0.015330458333333331
+        }
+    },
+    "_WikiTableQuestions_test": {
+        "gpt-4": {
+            "completion_tokens": 314.8695652173913,
+            "prompt_tokens": 10208.79347826087,
+            "cost_per_data_point": 0.32515597826086956
+        },
+        "gpt-35-turbo": {
+            "completion_tokens": 1038.9565217391305,
+            "prompt_tokens": 10208.79347826087,
+            "cost_per_data_point": 0.017391103260869567
+        }
+    }
+}
